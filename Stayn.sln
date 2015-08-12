@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{66D92C38-D877-4F6E-897C-43621A258BBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{848E76AE-BBD5-40AA-8565-CC082585206F}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Stayn", "src\Stayn\Stayn.xproj", "{32AB2B8B-DFBF-4AD1-8A48-D9B3B5B00FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AB2B8B-DFBF-4AD1-8A48-D9B3B5B00FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AB2B8B-DFBF-4AD1-8A48-D9B3B5B00FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AB2B8B-DFBF-4AD1-8A48-D9B3B5B00FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AB2B8B-DFBF-4AD1-8A48-D9B3B5B00FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32AB2B8B-DFBF-4AD1-8A48-D9B3B5B00FAE} = {66D92C38-D877-4F6E-897C-43621A258BBE}
+	EndGlobalSection
+EndGlobal

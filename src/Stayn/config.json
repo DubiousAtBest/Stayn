@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Stayn"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Stayn-140343d6-5a30-4f85-9858-4f1046035fc5;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
