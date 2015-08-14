@@ -13,10 +13,10 @@ Stayn.
 - Live chat with current customer
 - PayPal linked wallet
 - "Favored Styles" description
+
 ###For the Clients###
 - Tag-based search for artists
 - 10 point rating system when looking for an artist
 - Previously commissioned history
 - Mobile apps
 - "Best In Category" features
-# Stayn 
