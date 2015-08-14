@@ -6,7 +6,8 @@ When you need something drawn but other sites just don't have the communication 
 Stayn. 
 
 ##Features##
-###For the Artists###
+For the Artists
+---------------
 - Portfolio
 - Anonymous ratings and comments
 - "Up for Commission" board
@@ -14,7 +15,8 @@ Stayn.
 - PayPal linked wallet
 - "Favored Styles" description
 
-###For the Clients###
+For the Clients
+---------------
 - Tag-based search for artists
 - 10 point rating system when looking for an artist
 - Previously commissioned history
