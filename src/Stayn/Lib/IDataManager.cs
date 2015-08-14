@@ -4,7 +4,7 @@
 
 using System;
 
-namespace Stayn.Core.API
+namespace Stayn.Lib
 {
     public interface IDataManager<T>
     {

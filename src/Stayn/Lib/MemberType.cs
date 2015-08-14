@@ -1,4 +1,4 @@
-﻿namespace Stayn.Core.API
+﻿namespace Stayn.Lib
 {
     public enum MemberType
     {
