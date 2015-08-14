@@ -25,7 +25,8 @@
       "Microsoft.Framework.Logging >= 1.0.0-beta4",
       "Microsoft.Framework.Logging.Console >= 1.0.0-beta4",
       "Microsoft.VisualStudio.Web.BrowserLink.Loader >= 14.0.0-beta4",
-      "bootstrap >= 3.3.5"
+      "bootstrap >= 3.3.5",
+      "StackExchange.Redis >= 1.0.481"
     ],
     "DNX,Version=v4.5.1": [],
     "DNXCore,Version=v5.0": []
@@ -4928,6 +4929,40 @@
         "Remotion.Linq.nuspec",
         "lib/portable-net45+win+wpa81+wp80/Remotion.Linq.dll",
         "lib/portable-net45+win+wpa81+wp80/Remotion.Linq.xml"
+      ]
+    },
+    "StackExchange.Redis/1.0.481": {
+      "serviceable": false,
+      "sha": "WdcE2xngO+YBt9A37dzGqSddZOv04KrFWJwTORbN5x9L6tU7MBsz3Lfi4bl9kPMnHcsrK0Wqnzmbwyrn1IzzkQ==",
+      "frameworks": {
+        "DNX,Version=v4.5.1": {
+          "dependencies": {},
+          "frameworkAssemblies": [],
+          "runtimeAssemblies": [
+            "lib/net45/StackExchange.Redis.dll"
+          ],
+          "compileAssemblies": [
+            "lib/net45/StackExchange.Redis.dll"
+          ]
+        },
+        "DNXCore,Version=v5.0": {
+          "dependencies": {},
+          "frameworkAssemblies": [],
+          "runtimeAssemblies": [],
+          "compileAssemblies": []
+        }
+      },
+      "files": [
+        "StackExchange.Redis.1.0.481.nupkg",
+        "StackExchange.Redis.1.0.481.nupkg.sha512",
+        "StackExchange.Redis.nuspec",
+        "lib/net40/StackExchange.Redis.dll",
+        "lib/net40/StackExchange.Redis.dll.config",
+        "lib/net40/StackExchange.Redis.pdb",
+        "lib/net40/StackExchange.Redis.xml",
+        "lib/net45/StackExchange.Redis.dll",
+        "lib/net45/StackExchange.Redis.pdb",
+        "lib/net45/StackExchange.Redis.xml"
       ]
     },
     "System.AppContext/4.0.0-beta-22816": {

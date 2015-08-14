@@ -26,7 +26,8 @@
         "Microsoft.Framework.Logging": "1.0.0-beta4",
         "Microsoft.Framework.Logging.Console": "1.0.0-beta4",
         "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-beta4",
-        "bootstrap": "3.3.5"
+        "bootstrap": "3.3.5",
+        "StackExchange.Redis": "1.0.481"
     },
 
     "commands": {
