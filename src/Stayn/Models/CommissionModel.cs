@@ -1,5 +1,5 @@
 ﻿using System;
-using Stayn.Core.API;
+using Stayn.Lib;
 
 namespace Stayn.Models
 {
@@ -11,7 +11,7 @@ namespace Stayn.Models
 
         public string Description { get; set; }
         public string[] Tags { get; set; }
-        public CommissionType CommissionType { get; set; }
+        //public CommissionType CommissionType { get; set; }
         //public Image Product { get; set; }
 
         public DateTime RequestedCompletion { get; set; }
